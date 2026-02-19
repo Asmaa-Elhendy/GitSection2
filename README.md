@@ -1,2 +1,2 @@
 # GitSection2
-##initial notes
+## initial notes
